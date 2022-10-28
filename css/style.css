@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700&display=swap");
+@import url('http://fonts.cdnfonts.com/css/billion-dreams');
+
+* {
+  margin: 0;
+  padding: 0;
+ 
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+
+
+
+header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 100%;
+  padding: 15px;
+}
+
+
+h1 {
+  font-weight: 800;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 600;
+}
+
+.container-fluid {
+  padding: 0;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
